@@ -16,4 +16,4 @@
 ## Examples of other valid options; For more, please view the user guide
 ### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
 
-java -jar RepoSense.jar --config ./config --since 09/01/2025 --until 12/01/2025 --formats java md fxml sh bat gradle txt --timezone UTC+08
+java -jar RepoSense.jar --config ./config --since 01/09/2025 --until 01/12/2025 --formats java md fxml sh bat gradle txt --timezone UTC+08
